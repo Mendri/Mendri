@@ -4,9 +4,16 @@ Olá 👋 Meu nome é Marçal Mendonça
 Desenvolvedor Web
 -------------
 
-Sou um curioso estudante de Desenvolvimento Web, gosto de aprender coisas novas e aprimorar às que já aprendi. Tenho conhecimento nas seguintes tecnologias: HTML, CSS, JavaScript, React, Redux, Node, Express, MySql, Sequelize.
+Estudante da área de TI, com o foco em desenvolvimento web, tenho uma sólida base de conhecimentos adquiridos no curso livre de "Desenvolvimento Web" da Trybe, dentre esses conhecimentos estão: MongoDB, Express, React, Node.js (Mern Stack), Big-O, Design Patterns, Testes Unitários e Docker.
 
-* 🖥️  Dê uma olhado no meu repositório pessoal [PORTFÓLIO PESSOAL](http://mendri.github.io/portfolio-marcal/)
+Atualmente procuro uma oportunidade de emprego na área. Estou comprometido em me manter atualizado com as últimas tendências e tecnologias, a fim de fornecer soluções criativas e inovadoras para problemas complexos. Se você estiver procurando por um desenvolvedor web com paixão por tecnologia e aprendizado constante, por favor, entre em contato comigo. Será um prazer discutir suas necessidades e como posso contribuir para o sucesso do seu projeto.
+
+Vire e mexe eu posto um projeto pessoal no meu GitHub, então acompanhe por novidades:
+https://github.com/mendri
+
+Caso queira uma abordagem mais pessoal, meu telefone de contato:
+16997370787
+
 * ✉️  Email de contato [marcalmendrighi@gmail.com](mailto:marcalmendrighi@gmail.com)
 * 🧠  Atualmente estou cursando desenvolvimento web na Trybe
 
