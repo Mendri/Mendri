@@ -9,7 +9,7 @@ Estudante da área de TI, com o foco em desenvolvimento web, tenho uma sólida b
 Atualmente procuro uma oportunidade de emprego na área. Estou comprometido em me manter atualizado com as últimas tendências e tecnologias, a fim de fornecer soluções criativas e inovadoras para problemas complexos. Se você estiver procurando por um desenvolvedor web com paixão por tecnologia e aprendizado constante, por favor, entre em contato comigo. Será um prazer discutir suas necessidades e como posso contribuir para o sucesso do seu projeto.
 
 * ✉️  Email de contato [marcalmendrighi@gmail.com](mailto:marcalmendrighi@gmail.com)
-* 🧠  Atualmente estou cursando desenvolvimento web na Trybe
+* 🧠  Atualmente estou cursando o curso de Análise de dados do Google e procurando emprego na área
 
 ### Habilidades
 
