@@ -4,9 +4,11 @@ Olá 👋 Meu nome é Marçal Mendonça
 Desenvolvedor Web
 -------------
 
-Estudante da área de TI, com o foco em desenvolvimento web, tenho uma sólida base de conhecimentos adquiridos no curso livre de "Desenvolvimento Web" da Trybe, dentre esses conhecimentos estão: MongoDB, Express, React, Node.js (Mern Stack), Big-O, Design Patterns, Testes Unitários e Docker.
+Sou um Desenvolvedor Full Stack e tenho uma sólida base de conhecimentos adquiridos no Curso Técnico Integrado de Desenvolvimento Web da Trybe, que incluem MongoDB, Express, React, Node.js (Mern Stack), Big-O, Design Patterns, MySQL, Testes Unitários e Docker.
 
-Atualmente procuro uma oportunidade de emprego na área. Estou comprometido em me manter atualizado com as últimas tendências e tecnologias, a fim de fornecer soluções criativas e inovadoras para problemas complexos. Se você estiver procurando por um desenvolvedor web com paixão por tecnologia e aprendizado constante, por favor, entre em contato comigo. Será um prazer discutir suas necessidades e como posso contribuir para o sucesso do seu projeto.
+Atualmente, estou buscando aprimorar meus conhecimentos e habilidades na área, tendo em vista que estou tirando meu certificado no curso de Análise de Dados do Google. Meu compromisso é me manter atualizado com as últimas tendências e tecnologias para fornecer soluções criativas e inovadoras para problemas complexos.
+
+Se você está procurando por um desenvolvedor web ou um analista de dados com paixão por tecnologia e aprendizado constante, ficarei muito feliz em discutir suas necessidades e como posso contribuir para o sucesso do seu projeto. Entre em contato comigo!
 
 * ✉️  Email de contato [marcalmendrighi@gmail.com](mailto:marcalmendrighi@gmail.com)
 * 🧠  Atualmente estou cursando o curso de Análise de dados do Google e procurando emprego na área
