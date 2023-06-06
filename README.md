@@ -12,7 +12,7 @@ Caso esteja à procura de um desenvolvedor web ou analista de dados com paixão 
 
 * ✉️  Email de contato [marcalmendrighi@gmail.com](mailto:marcalmendrighi@gmail.com)
 * 📱   Telefone para contato (16) 99737-0787
-* 🧠  Atualmente estou cursando o curso de Análise de dados do Google e procurando emprego na área
+* 🧠  Atualmente estou tirando meu certificado em Análise de dados do Google e procurando emprego na área
 
 ### Habilidades
 
