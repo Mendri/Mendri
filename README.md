@@ -1,14 +1,20 @@
 Olá 👋 Meu nome é Marçal Mendonça
 ================================
 
-Desenvolvedor Full Stack | Analista de Dados
+Dev Full Stack
 -------------
 
-Sou um Desenvolvedor Full Stack com uma sólida base de conhecimentos adquiridos no Curso Técnico Integrado de Desenvolvimento Web da Trybe, que inclui MongoDB, Express, React, Node.js (MERN Stack), Big-O, Design Patterns, MySQL, Testes Unitários e Docker.
+Desenvolvedor Full Stack especializado em React, TypeScript, Python, Java e SQL, possuo Ensino Médio completo e concluí cursos de Desenvolvimento Web pela Trybe e Análise de Dados pelo Google. 
 
-Atualmente estou aprimorando meus conhecimentos e habilidades na área da tecnologia, pois estou concluindo meu certificado de Análise de Dados do Google. Meu compromisso é manter-me atualizado com as últimas tendências e tecnologias, a fim de oferecer soluções criativas e inovadoras para problemas complexos.
+Embora ainda não tenha experiência profissional, tenho uma conquista da qual me orgulho e que gostaria de compartilhar: durante o curso na Trybe, recebi uma menção honrosa por minha excelência na entrega de projetos, demonstrando minha consistência em cumprir todos os requisitos dentro dos prazos estabelecidos. 
 
-Caso esteja à procura de um desenvolvedor web ou analista de dados com paixão por tecnologia e aprendizado constante, ficarei muito feliz em discutir suas necessidades e como posso contribuir para o sucesso do seu projeto. Entre em contato comigo!
+Atualmente, estou em busca de oportunidades como Desenvolvedor Full Stack, onde posso aplicar minhas habilidades no desenvolvimento de sistemas CRUD, criação de APIs e interfaces de usuário.
+
+Desenvolvedor Full Stack especializado em React, TypeScript, Python, Java e SQL, possuo Ensino Médio completo e concluí cursos de Desenvolvimento Web pela Trybe e Análise de Dados pelo Google. 
+
+Embora ainda não tenha experiência profissional, tenho uma conquista da qual me orgulho e que gostaria de compartilhar: durante o curso na Trybe, recebi uma menção honrosa por minha excelência na entrega de projetos, demonstrando minha consistência em cumprir todos os requisitos dentro dos prazos estabelecidos. 
+
+Atualmente, estou em busca de oportunidades como Desenvolvedor Full Stack, onde posso aplicar minhas habilidades no desenvolvimento de sistemas CRUD, criação de APIs e interfaces de usuário.
 
 * ✉️  Email de contato [marcalmendrighi@gmail.com](mailto:marcalmendrighi@gmail.com)
 * 📱   Telefone para contato (16) 99737-0787
