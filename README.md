@@ -11,7 +11,6 @@ Embora ainda não tenha experiência profissional, tenho uma conquista da qual m
 Atualmente, estou em busca de oportunidades como Desenvolvedor Full Stack, onde posso aplicar minhas habilidades no desenvolvimento de sistemas CRUD, criação de APIs e interfaces de usuário.
 
 https://github.com/mendri
-https://lexart-php-developer-fullstack-test.vercel.app/
 
 * ✉️  Email de contato [marcalmendrighi@gmail.com](mailto:marcalmendrighi@gmail.com)
 * 📱   Telefone para contato (16) 99737-0787
