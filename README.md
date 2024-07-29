@@ -1,14 +1,10 @@
 Olá 👋 Meu nome é Marçal Mendonça
 ================================
 
-Dev Full Stack
+Desenvolvedor Full Stack
 -------------
 
-Desenvolvedor Full Stack com conhecimentos em React, TypeScript, Python, Java, PHP e SQL, possuo Ensino Médio completo e concluí cursos de Desenvolvimento Web pela Trybe e Análise de Dados pelo Google. 
-
-Embora ainda não tenha experiência profissional, tenho uma conquista da qual me orgulho e que gostaria de compartilhar: durante o curso na Trybe, recebi uma menção honrosa por minha excelência na entrega de projetos, demonstrando minha consistência em cumprir todos os requisitos dentro dos prazos estabelecidos. 
-
-Atualmente, estou em busca de oportunidades como Desenvolvedor Full Stack, onde posso aplicar minhas habilidades no desenvolvimento de sistemas CRUD, criação de APIs e interfaces de usuário.
+Possuo conhecimentos em React, TypeScript, Python, Java, PHP e SQL, Concluí cursos de Desenvolvimento Web pela Trybe e Análise de Dados pelo Google, atualmente estou cursando Ciências de Dados pela UNIVESP. 
 
 https://github.com/mendri
 
