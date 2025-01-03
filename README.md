@@ -10,7 +10,7 @@ https://github.com/mendri
 
 * ✉️  Email de contato [marcalmendrighi@gmail.com](mailto:marcalmendrighi@gmail.com)
 * 📱   Telefone para contato (16) 99737-0787
-* 🧠  Atualmente estou tirando meu certificado em Análise de dados do Google e procurando emprego na área
+* 🧠  Atualmente estou trabalhando como Desenvolvedor de Software Junior na TechWork
 
 ### Habilidades
 
